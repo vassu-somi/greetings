@@ -1,12 +1,12 @@
 import React from "react";
 import "./App.css";
 import Welcome from "./Welcome";
+//import Child from "./Child";
 
 const App = () => {
   return (
   <>
-  <Welcome name=""/>
-          <h2>Welcome to Newton School</h2>
+   <Welcome/>
           </>
          )
 };
